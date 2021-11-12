@@ -1,0 +1,95 @@
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 47px;
+    margin-left: 84px;
+    font-family: 'Poppins';
+
+    
+}
+.nav>p>a{
+    color: white;
+    font-weight: 600;
+    font-size: xx-large;
+    margin: 0 0 0 20px;
+    text-decoration: none;
+    font-family: 'Poppins';
+
+
+}
+.nav>ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    margin: 0  40px 0 0;
+    font-family: 'Poppins';
+}
+.nav>ul>li{
+    padding: 10px;
+    margin-left: 10px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-24)/var(--unnamed-line-spacing-35) var(--unnamed-font-family-poppins);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    font: normal normal normal 24px/35px 'Poppins';
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.login{
+    padding: 3px 10px !important;
+    border-radius: 50px;
+    font-family: 'Poppins';
+    border: 1px solid white !important;
+    margin-top: 54px;
+    margin-right: 246px;
+     
+}
+.login>a{
+    color: white !important;
+    text-decoration: none;
+    font-family: 'Poppins';
+
+}
+.sign{
+    background-color: white !important;
+    padding: 3px 10px !important;
+    margin-top: 54px;
+    margin-right: 554px;
+    font-family: 'Poppins';
+
+    
+}
+.sign>a{
+    color: blue !important;
+    text-decoration: none;
+    font-family: 'Poppins';
+    
+    
+}
+.nav>ul>li>a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins';
+
+}
+
+.circle{
+    
+    top: -498.52392578125px;
+    left: -292.08987426757812px;
+    width: 930px;
+    height: 881px;
+    transform: matrix(0.93, 0.37, -0.37, 0.93, 0, 0);
+    background: #CFCFCF 0% 0% no-repeat padding-box;
+    /* border-radius: 50%; */
+    border-radius: 48% 45% 52% 50%;
+    transform: rotate(.15turn);
+    position: absolute;
+    mix-blend-mode: soft-light;
+    opacity: 0.48;
+}
+

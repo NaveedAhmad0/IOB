@@ -1,0 +1,75 @@
+.container{
+    display: flex;
+    /* border: 2px solid black; */
+    justify-content: space-between;
+}
+
+/* .circle{
+    
+    top: -408.52392578125px;
+    left: -162.08987426757812px;
+    width: 649px;
+    height: 631px;
+    transform: matrix(0.93, 0.37, -0.37, 0.93, 0, 0);
+    background: #CFCFCF 0% 0% no-repeat padding-box;
+    border-radius:50% 0;
+    transform: rotate(.100turn);
+    position: absolute;
+    mix-blend-mode: soft-light;
+    opacity: 0.48;
+} */
+
+.col1{
+    justify-content: center;    
+    display: flex;
+    /* border: 2px solid black;         */
+    padding: 5px;
+    margin: 10px;
+    margin-top: 0px;
+    margin-left: -12px;
+    
+    font-family:'Poppins' ;
+
+    
+}
+.col2{
+    justify-content: center;
+    display: flex;
+    background-color: white;
+    /* border: 2px solid black; */
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 250px;
+    border-radius: 20px;
+
+    top: 183px;
+    left: 875px;
+    width: 961px;
+    height: 489px;
+    font-family:'Poppins' ;
+
+
+}
+/* #card{
+    display: flex;
+    padding: 5px;
+    font-family:'Poppins' ;
+
+} */
+    
+.SignButton{
+    text-decoration: none;
+    color: #302ECC;
+    font-family:'Poppins' ;
+}
+.Logbuttn{
+    font-family:'Poppins' ;
+    border-radius: 35px;
+    margin-left: 30px;
+    top: -10px;
+    width: 110px;
+    height: 37px;
+    background: transparent linear-gradient(180deg, #2F2DD6 0%, #18173D 100%) 0% 0% no-repeat padding-box;
+
+}
+

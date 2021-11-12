@@ -1,0 +1,38 @@
+.App {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    opacity: 100%;
+    
+
+  
+}
+body{
+  top: 0px;
+  left: 0.000003814697265625px;
+  background: var(--unnamed-color-302ecc) 0% 0% no-repeat padding-box;
+  background: #302ECC 0% 0% no-repeat padding-box;
+  opacity: 1;
+  
+}
+
+
+/* .label{
+  font-weight: bold;
+  display: flex;
+  margin-bottom: 5px;
+}
+
+input[type='email'],
+input[type='password'] {
+  display: block;
+  width: 400px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: darkslategrey;
+  background-color: #fff;
+  border: 1px solid #302ECC;
+  border-radius: 4px;
+  margin-bottom: 20px;
+} */
